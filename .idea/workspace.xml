@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82199407-7388-4e7d-8d3b-0ea41960b937" name="Default Changelist" comment="Commit code">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/config/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/config/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/config/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/method/GoogleSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/method/TruyenPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/GoogleSearchPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/truyenPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/test.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/base/TestBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/method/GoogleSearchPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/method/TruyenPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GoogleSearchPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/truyenPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/SilentStormX/POM_Learning.git" />
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\hoc_lap_trinh\selenium\test\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hlb9wzdxpgH01p4SrFh08AU5r6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\hoc_lap_trinh\selenium\test\src\test" />
+      <recent name="E:\hoc_lap_trinh\selenium\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/hoc_lap_trinh/selenium/test/testng.xml">
+    <configuration name="E:/hoc_lap_trinh/selenium/test/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearchPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchPageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleSearchPageTest.googleSearching" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchPageTest" />
+      <option name="METHOD_NAME" value="googleSearching" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="TestNG" temporary="true">
+      <module name="test" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GoogleSearchPageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="truyenPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="truyenPageTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Test" />
+      <item itemvalue="TestNG.GoogleSearchPageTest" />
+      <item itemvalue="TestNG.GoogleSearchPageTest.googleSearching" />
+      <item itemvalue="TestNG.E:/hoc_lap_trinh/selenium/test/testng.xml" />
+      <item itemvalue="TestNG.truyenPageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/hoc_lap_trinh/selenium/test/testng.xml" />
+        <item itemvalue="TestNG.Test" />
+        <item itemvalue="TestNG.truyenPageTest" />
+        <item itemvalue="TestNG.GoogleSearchPageTest.googleSearching" />
+        <item itemvalue="TestNG.GoogleSearchPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82199407-7388-4e7d-8d3b-0ea41960b937" name="Default Changelist" comment="" />
+      <created>1600588477675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600588477675</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Commit code">
+      <created>1601727088595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601727088595</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit code" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="177" width="816" height="733" key="#Intentions" timestamp="1601479566482">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" width="816" height="733" key="#Intentions/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601479566482" />
+    <state x="552" y="177" key="#Project_Structure" timestamp="1601301138522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="177" key="#Project_Structure/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601301138522" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601042956955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601042956955" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601298586307">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601298586307" />
+    <state x="728" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601300114150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="322" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601300114150" />
+    <state x="669" y="166" width="596" height="707" key="#test" timestamp="1601299065965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="166" width="596" height="707" key="#test/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601299065965" />
+    <state x="669" y="166" key="#test_(1)" timestamp="1601042907939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="166" key="#test_(1)/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601042907939" />
+    <state x="669" y="166" key="#test_(2)" timestamp="1601042931467">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="166" key="#test_(2)/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601042931467" />
+    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1601727561471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="113" key="CommitChangelistDialog2/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601727561471" />
+    <state x="761" y="341" key="FileChooserDialogImpl" timestamp="1601726747230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="341" key="FileChooserDialogImpl/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601726747230" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601481992261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.-1.1920.1040/0.0.1920.1040@-1920.-1.1920.1040" timestamp="1601396414730" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601481992261" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601481992261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.-1.1920.1040/0.0.1920.1040@-1920.-1.1920.1040" timestamp="1601396414730" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601481992261" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601481992261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.-1.1920.1040/0.0.1920.1040@-1920.-1.1920.1040" timestamp="1601396414730" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601481992261" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601481992261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.-1.1920.1040/0.0.1920.1040@-1920.-1.1920.1040" timestamp="1601396414730" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601481992261" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1600588695637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600588695637" />
+    <state x="625" y="218" key="NewModule_or_Project.wizard" timestamp="1601726869692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="218" key="NewModule_or_Project.wizard/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601726869692" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1601303887313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601303887313" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1601727347354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601727347354" />
+    <state x="776" y="297" key="chooseDestDirectoryDialog" timestamp="1601479544084">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="297" key="chooseDestDirectoryDialog/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601479544084" />
+    <state x="662" y="310" key="git4idea.merge.GitPullDialog" timestamp="1601727441534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="310" key="git4idea.merge.GitPullDialog/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601727441534" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1601041760515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/-1920.-1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601041760515" />
+  </component>
+</project>
