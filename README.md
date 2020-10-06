@@ -15,4 +15,3 @@ browser=Firefox
 ```javascript
 mvn clean test
 ```
->>>>>>> ed8813be2ceb423cbf8e58a423b32e02ad5e3636
