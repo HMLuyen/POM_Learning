@@ -26,6 +26,10 @@
             <version>7.3.0</version>
             <scope>test</scope>
         </dependency>
+<<<<<<< HEAD
+=======
+
+>>>>>>> ed8813be2ceb423cbf8e58a423b32e02ad5e3636
     </dependencies>
 
     <build>
