@@ -3,7 +3,6 @@ package base;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -13,13 +12,14 @@ import java.util.concurrent.TimeUnit;
 public class TestBase {
     public static WebDriver driver;
     public static Properties prop;
+    public static String directory = System.getProperty("user.dir");
     public static int PAGE_LOAD_TIMEOUT = 20;
     public static int IMPLICIT_WAIT = 20;
 
     public TestBase() {
         try {
             prop = new Properties();
-            FileInputStream ip = new FileInputStream("src/main/resources/config/config.txt");
+            FileInputStream ip = new FileInputStream(directory + "/src/main/java/config/config.properties");
             prop.load(ip);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
@@ -30,9 +30,8 @@ public class TestBase {
 
     public static void initialization() {
         String browserName = prop.getProperty("browser");
-        String chromedriver_path = "src/main/resources/config/chromedriver.exe";
-        String geckodriver_path = "src/main/resources/config/geckodriver.exe";
-
+        String chromedriver_path = directory + "/src/main/java/config/chromedriver.exe";
+        String geckodriver_path = directory + "/src/main/java/config/geckodriver.exe";
         if (browserName.equals("chrome")) {
             System.setProperty("webdriver.chrome.driver", chromedriver_path);
             driver = new ChromeDriver();
