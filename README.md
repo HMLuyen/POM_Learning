@@ -6,7 +6,7 @@ This project is written in Java and is an example of implementing Page Object Mo
 ## How to run
 - By default it runs in Chrome browser, you can change to Firefox browser by edit file config.txt in:
 ```javascript
-/src/main/config/config.txt
+/src/main/java/config/config.properties
 ```
 ```javascript
 browser=Firefox
