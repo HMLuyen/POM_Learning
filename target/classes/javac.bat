@@ -1,0 +1,1 @@
+cmd.exe /X /C ""C:\Program Files\Java\jdk1.7.0_79\bin\javac" @E:/hoc_lap_trinh/selenium/test/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler8050899427084738157arguments"
