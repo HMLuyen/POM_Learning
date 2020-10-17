@@ -1,13 +1,8 @@
 package base;
 
-import method.GoogleSearchPage;
-import method.TruyenPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -37,7 +32,6 @@ public class TestBase {
         String browserName = prop.getProperty("browser");
         String chromedriver_path = directory + "/src/main/java/config/chromedriver.exe";
         String geckodriver_path = directory + "/src/main/java/config/geckodriver.exe";
-
         if (browserName.equals("chrome")) {
             System.setProperty("webdriver.chrome.driver", chromedriver_path);
             driver = new ChromeDriver();

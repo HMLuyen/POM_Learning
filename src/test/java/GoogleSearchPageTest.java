@@ -1,9 +1,6 @@
 import method.TruyenPage;
 import org.junit.Assert;
 import org.testng.annotations.*;
-
-import java.io.IOException;
-
 import base.TestBase;
 import method.GoogleSearchPage;
 
